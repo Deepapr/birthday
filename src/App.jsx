@@ -1,5 +1,5 @@
 import './App.css'
-import Birthday from './birthday.jsx'
+import Birthday from './Birthday.jsx'
 
 function App() {
 
