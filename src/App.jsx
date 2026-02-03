@@ -1,10 +1,13 @@
-
 import './App.css'
+import Birthday from './birthday.jsx'
 
 function App() {
-<>
-<canvas id="c"></canvas>
-</>
+
+    return (
+        <>
+        <Birthday />
+        </>
+    );
 }
 
 export default App
